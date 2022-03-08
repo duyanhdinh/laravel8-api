@@ -1,4 +1,4 @@
-# Laravel api
+# Laravel api with PHP 7
 
 ## Setup
 
